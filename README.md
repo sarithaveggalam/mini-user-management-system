@@ -1,1 +1,1 @@
-# Mini User Management System Full Stack
+# Mini User Management System 
